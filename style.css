@@ -1,0 +1,15 @@
+canvas{
+    width: 400px;
+    height: 400px;
+
+    border-top-style: dotted;
+    border-right-style: solid;
+    border-bottom-style: dotted;
+    border-left-style: solid;
+    
+    border-top-color: red;
+    border-right-color: #002efc;
+    border-bottom-color: lightgreen;
+    border-left-color: purple;
+    
+}
